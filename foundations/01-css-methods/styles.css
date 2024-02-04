@@ -1,0 +1,7 @@
+div {
+    background-color: red; /* color of the background */
+    color: white; /* color of the fond */
+    text-align: center; /* to make the text in the center */
+    font-size: 32px;
+    font-weight: bold;
+}
