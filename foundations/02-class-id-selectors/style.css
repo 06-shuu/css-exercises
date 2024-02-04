@@ -1,0 +1,21 @@
+/* here i defined the common attribute declarations between p1 and p2 selectors */
+.p1,
+.p2{
+    background-color: rgba(255, 0, 0, 0.3);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+/* here i defined the unique declaration of p2 selector*/
+.p2{
+    font-size: 24px;
+}
+
+#element2{
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#element4{
+    background-color: rgba(0, 255, 0, 0.3);
+    font-weight: bold;
+}
